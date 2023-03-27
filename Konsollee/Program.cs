@@ -7,6 +7,8 @@ namespace Konsollee
         static void Main(string[] args)
         {
             Console.WriteLine("Добрый день группа 2024 и 2024к");
+            Console.WriteLine("Новиков и Тищенко");
+            
         }
     }
 }
